@@ -32,6 +32,14 @@ Length Recommendations: Emphasizes the importance of longer passwords, typically
 Common Password Identification: Flags passwords that are commonly used or easily guessable, encouraging users to avoid them.
 
 
+![Screenshot 2024-09-24 222359](https://github.com/user-attachments/assets/d9066d55-a667-4789-b209-4b0a0e453d34)
+
+
+
+
+
+
+
 
 
 
